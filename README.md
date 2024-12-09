@@ -23,6 +23,8 @@ The "Motor Vehicle Collisions - Crashes" dataset includes details about crash ev
 
 # **Raw Data Source**
 
+Because the file is to big to fit into this github repository, here is the link to access and download the raw data source. 
+
 https://catalog.data.gov/dataset/motor-vehicle-collisions-crashes
 
 # **Project Goals**
